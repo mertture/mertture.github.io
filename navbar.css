@@ -94,3 +94,14 @@
   background-color: #1e1e1e;
   color: #fff;
 }
+
+
+.skills .skillset .level-bar-inner {
+  height: 16px;
+  background: #66cb8c;
+}
+
+.item {
+  margin-bottom:4px;
+}
+
